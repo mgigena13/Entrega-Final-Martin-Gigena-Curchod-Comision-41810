@@ -1,0 +1,49 @@
+[{
+        "precio": 250000,
+        "id": 1,
+        "title": "macBook Pro Air",
+        "thumbnailUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 30000,
+        "id": 2,
+        "title": "Viaje a Bariloche",
+        "thumbnailUrl": "https://picsum.photos/id/10/600"
+    },
+    {
+        "precio": 100,
+        "id": 3,
+        "title": "Utiles escolares",
+        "thumbnailUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+        "precio": 400,
+        "id": 4,
+        "title": "Café",
+        "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 5000,
+        "id": 5,
+        "title": "Tu mascota preferida",
+        "thumbnailUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+        "precio": 15000,
+        "id": 6,
+        "title": "Paseo en barco",
+        "thumbnailUrl": "https://picsum.photos/id/50/600"
+    },
+    {
+        "precio": 1500,
+        "id": 7,
+        "title": "Utiles de oficina",
+        "thumbnailUrl": "https://picsum.photos/id/60/600"
+    },
+    {
+        "precio": 180000,
+        "id": 8,
+        "title": "Camioneta de coleccion",
+        "thumbnailUrl": "https://picsum.photos/id/1072/600"
+    }
+]
